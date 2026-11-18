@@ -1,246 +1,186 @@
+<!-- GitHub BIO (143 chars) :
+▸ 0xRAGNAROK // Polyglot Ring-0 Architect (Rust · C++23 · Py · TS · Java 25). Telemetry HUD, APIs & Code Vault -> 0xRagnarok-Mainframe [RING-0]
+-->
 <div align="center">
 
-  <!-- BANNIÈRE PRINCIPALE RAGNARÖK -->
+<a href="https://github.com/0xRagnarok/0xRagnarok-Mainframe">
   <img src="./banner.jpg" alt="RAGNARÖK // SYSTEM OVERRIDE" width="100%" />
+</a>
 
-  <br /><br />
+<br/><br/>
 
-  <!-- BADGES SYSTÈME DYNAMIQUES (PALETTE CYBER-TERMINAL) -->
-  <img src="https://img.shields.io/badge/USER-root%40ragnarok%3A~%23-00FF66?style=for-the-badge&labelColor=0D1117" alt="User" />
-  <img src="https://img.shields.io/badge/STATUS-SYSTEM__OVERRIDE-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Status" />
-  <img src="https://img.shields.io/badge/SECURITY-RING--0%20%2F%2F%20ENCRYPTED-FF003C?style=for-the-badge&labelColor=0D1117" alt="Security" />
-  <img src="https://img.shields.io/badge/ARCHITECTURE-MONOREPO%20v5.0-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Architecture" />
-  <img src="https://img.shields.io/badge/UPTIME-99.99%25%20%5BONLINE%5D-00FF66?style=for-the-badge&labelColor=0D1117" alt="Uptime" />
-  <img src="https://img.shields.io/badge/DRM-Ed25519%20%2F%2F%20HWID-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="DRM" />
+![User](https://img.shields.io/badge/USER-ROOT%40RAGNAROK%3A~%23-39ff14?style=for-the-badge&labelColor=0d1117)
+![Status](https://img.shields.io/badge/STATUS-SYSTEM__OVERRIDE-9d4dff?style=for-the-badge&labelColor=0d1117)
+![Security](https://img.shields.io/badge/SECURITY-RING--0%20%2F%2F%20ENCRYPTED-ff2a3d?style=for-the-badge&labelColor=0d1117)
+![Architecture](https://img.shields.io/badge/ARCHITECTURE-MONOREPO%209--DIV-00f0ff?style=for-the-badge&labelColor=0d1117)
+![Uptime](https://img.shields.io/badge/UPTIME-99.99%25%20%5BONLINE%5D-39ff14?style=for-the-badge&labelColor=0d1117)
+![DRM](https://img.shields.io/badge/DRM-ED25519%20%2F%2F%20KEYGEN-9d4dff?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
-<br />
-
-```bash
+```text
 root@ragnarok:~# ./ragnarok_mainframe --init --ring0 --deploy-all
-[*] Booting Ragnarök Next-Gen Ecosystem v5.0 [Polyglot Cloud & Kernel Architecture]...
-[+] Operator     : RAGNARÖK (0xRagnarok // ms.ragnarok) — Lead Systems & Full-Stack Architect
+[*] Booting Ragnarök Next-Gen Ecosystem [Polyglot Mainframe & Kernel Architecture]...
+[+] Operator     : RAGNAROK (0xRagnarok // root@ragnarok:~#) - Lead Systems & Full-Stack Architect
 [+] Memory Base  : 0x7FF6A8B20000 -> [RING-0 PRIVILEGE ESCALATED // UID: 0]
-[+] Core Stack   : Rust | TypeScript | React 19 | Python | Java 25 | C++ | C | C# | x64 ASM | NSIS
-[+] Production   : Commercial SaaS Hub, DRM Licensing, Desktop Apps, AI Models, Discord Bots & APIs
-[!] Firewall     : OVERRIDDEN — Zero-Trust Telemetry & WSS Tunnels Active [████████████] 100%
+[+] Core Stack   : Rust | C++23 | C | Zig | x64 ASM | C# | TypeScript | React 19 | Python | Go | Java 25 | Lua | NSIS
+[+] Flagship     : 0xRagnarok-Mainframe (Telemetry HUD, Marketplace, Ed25519 Code Vault & 9 Divisions)
+[!] Firewall     : OVERRIDDEN - Zero-Trust Telemetry & WSS Tunnels Active [███████] 100%
 ```
 
 ---
 
-### `> 0x01 // CORE_ARSENAL & TECH_STACK`
+## > 0x01 // CORE_ARSENAL & TECH_STACK
 
-#### `▸ [0x01.A] SYSTEMS, LOW-LEVEL & NATIVE ENGINEERING`
-<div align="left">
-  <img src="https://img.shields.io/badge/Rust-00FF66?style=for-the-badge&logo=rust&logoColor=00FF66&labelColor=0D1117" alt="Rust" />
-  <img src="https://img.shields.io/badge/C%2B%2B_23-00FF66?style=for-the-badge&logo=cplusplus&logoColor=00FF66&labelColor=0D1117" alt="C++" />
-  <img src="https://img.shields.io/badge/C_Lang-00FF66?style=for-the-badge&logo=c&logoColor=00FF66&labelColor=0D1117" alt="C" />
-  <img src="https://img.shields.io/badge/C%23_.NET-00FF66?style=for-the-badge&logo=dotnet&logoColor=00FF66&labelColor=0D1117" alt="C#" />
-  <img src="https://img.shields.io/badge/x86%2Fx64_ASM-FF003C?style=for-the-badge&logo=intel&logoColor=FF003C&labelColor=0D1117" alt="ASM" />
-  <img src="https://img.shields.io/badge/Java_25-00FF66?style=for-the-badge&logo=openjdk&logoColor=00FF66&labelColor=0D1117" alt="Java 25" />
-  <img src="https://img.shields.io/badge/Ring--0_%2F_Native_SDK-FF003C?style=for-the-badge&logo=linux&logoColor=FF003C&labelColor=0D1117" alt="Ring-0" />
-</div>
+<details open>
+<summary><b>▸ [0x01.A] SYSTEMS, RING-0 & LOW-LEVEL ENGINEERING</b></summary>
+<br/>
 
-#### `▸ [0x01.B] BACKEND, REAL-TIME WEBSOCKETS, APIs & AI MODELS`
-<div align="left">
-  <img src="https://img.shields.io/badge/Tokio_%2F_Axum-00FF66?style=for-the-badge&logo=rust&logoColor=00FF66&labelColor=0D1117" alt="Tokio Axum" />
-  <img src="https://img.shields.io/badge/Python_3.13-8A2BE2?style=for-the-badge&logo=python&logoColor=00FF66&labelColor=0D1117" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-8A2BE2?style=for-the-badge&logo=fastapi&logoColor=00FF66&labelColor=0D1117" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PyTorch_AI-FF003C?style=for-the-badge&logo=pytorch&logoColor=FF003C&labelColor=0D1117" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/WebSockets_WSS-00F0FF?style=for-the-badge&logo=socketdotio&logoColor=00F0FF&labelColor=0D1117" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/Node.js-8A2BE2?style=for-the-badge&logo=nodedotjs&logoColor=00FF66&labelColor=0D1117" alt="Node.js" />
-  <img src="https://img.shields.io/badge/GraphQL_%2F_gRPC-8A2BE2?style=for-the-badge&logo=graphql&logoColor=00F0FF&labelColor=0D1117" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/REST_API-00F0FF?style=for-the-badge&logo=insomnia&logoColor=00F0FF&labelColor=0D1117" alt="REST API" />
-</div>
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=ff2a3d)
+![C++23](https://img.shields.io/badge/C%2B%2B23-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00f0ff)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00f0ff)
+![Zig](https://img.shields.io/badge/Zig-0d1117?style=for-the-badge&logo=zig&logoColor=f7a41d)
+![x86_64 ASM](https://img.shields.io/badge/x86__64_ASM-0d1117?style=for-the-badge&logo=assemblyscript&logoColor=9d4dff)
+![C# .NET 9](https://img.shields.io/badge/C%23_.NET_9-0d1117?style=for-the-badge&logo=dotnet&logoColor=9d4dff)
 
-#### `▸ [0x01.C] WEB PLATFORM, GLASSMORPHIC DESKTOP & UI`
-<div align="left">
-  <img src="https://img.shields.io/badge/TypeScript_5.x-00F0FF?style=for-the-badge&logo=typescript&logoColor=00F0FF&labelColor=0D1117" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React_19-8A2BE2?style=for-the-badge&logo=react&logoColor=00F0FF&labelColor=0D1117" alt="React 19" />
-  <img src="https://img.shields.io/badge/Vite_6-8A2BE2?style=for-the-badge&logo=vite&logoColor=00FF66&labelColor=0D1117" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-00F0FF?style=for-the-badge&logo=tailwindcss&logoColor=00F0FF&labelColor=0D1117" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Tauri_v2-00FF66?style=for-the-badge&logo=tauri&logoColor=00FF66&labelColor=0D1117" alt="Tauri" />
-  <img src="https://img.shields.io/badge/Electron-8A2BE2?style=for-the-badge&logo=electron&logoColor=00F0FF&labelColor=0D1117" alt="Electron" />
-  <img src="https://img.shields.io/badge/JavaScript_ES2026-00F0FF?style=for-the-badge&logo=javascript&logoColor=00F0FF&labelColor=0D1117" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5_%2F_CSS3-8A2BE2?style=for-the-badge&logo=html5&logoColor=00FF66&labelColor=0D1117" alt="HTML5 CSS3" />
-</div>
+</details>
 
-#### `▸ [0x01.D] DATABASES, DEVOPS & ZERO-TRUST INFRASTRUCTURE`
-<div align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-00FF66?style=for-the-badge&logo=postgresql&logoColor=00FF66&labelColor=0D1117" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis_PubSub-FF003C?style=for-the-badge&logo=redis&logoColor=FF003C&labelColor=0D1117" alt="Redis" />
-  <img src="https://img.shields.io/badge/SQLite-00F0FF?style=for-the-badge&logo=sqlite&logoColor=00F0FF&labelColor=0D1117" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Docker_Cluster-00FF66?style=for-the-badge&logo=docker&logoColor=00FF66&labelColor=0D1117" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux_Debian-00FF66?style=for-the-badge&logo=debian&logoColor=00FF66&labelColor=0D1117" alt="Linux Debian" />
-  <img src="https://img.shields.io/badge/Nginx_Proxy-00FF66?style=for-the-badge&logo=nginx&logoColor=00FF66&labelColor=0D1117" alt="Nginx" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-8A2BE2?style=for-the-badge&logo=githubactions&logoColor=00FF66&labelColor=0D1117" alt="GitHub Actions" />
-</div>
+<details open>
+<summary><b>▸ [0x01.B] BACKEND, APIs, MICROSERVICES & REAL-TIME WEBSOCKETS</b></summary>
+<br/>
 
-#### `▸ [0x01.E] PACKAGING, AUTOMATION & DISCORD ECOSYSTEM`
-<div align="left">
-  <img src="https://img.shields.io/badge/NSIS_Installer-FF003C?style=for-the-badge&logo=windows&logoColor=FF003C&labelColor=0D1117" alt="NSIS" />
-  <img src="https://img.shields.io/badge/Discord_Apps_%2F_Bots-8A2BE2?style=for-the-badge&logo=discord&logoColor=00F0FF&labelColor=0D1117" alt="Discord Bots" />
-  <img src="https://img.shields.io/badge/PowerShell_Core-00F0FF?style=for-the-badge&logo=powershell&logoColor=00F0FF&labelColor=0D1117" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Bash_Scripting-00FF66?style=for-the-badge&logo=gnubash&logoColor=00FF66&labelColor=0D1117" alt="Bash" />
-  <img src="https://img.shields.io/badge/Gradle_Kotlin-00FF66?style=for-the-badge&logo=gradle&logoColor=00FF66&labelColor=0D1117" alt="Gradle" />
-  <img src="https://img.shields.io/badge/Cargo_Workspaces-00FF66?style=for-the-badge&logo=rust&logoColor=00FF66&labelColor=0D1117" alt="Cargo" />
-</div>
+![Axum Tokio](https://img.shields.io/badge/Axum_Tokio_Actix-0d1117?style=for-the-badge&logo=rust&logoColor=ff2a3d)
+![FastAPI](https://img.shields.io/badge/FastAPI_AsyncIO-0d1117?style=for-the-badge&logo=fastapi&logoColor=39ff14)
+![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00f0ff)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=39ff14)
+![Bun](https://img.shields.io/badge/Bun-0d1117?style=for-the-badge&logo=bun&logoColor=ffffff)
+![PHP 8.4](https://img.shields.io/badge/PHP_8.4-0d1117?style=for-the-badge&logo=php&logoColor=9d4dff)
+![GraphQL](https://img.shields.io/badge/GraphQL-0d1117?style=for-the-badge&logo=graphql&logoColor=ff2a3d)
+![gRPC](https://img.shields.io/badge/gRPC-0d1117?style=for-the-badge&logo=google&logoColor=00f0ff)
+![WebSockets](https://img.shields.io/badge/WebSockets-0d1117?style=for-the-badge&logo=socketdotio&logoColor=39ff14)
+
+</details>
+
+<details open>
+<summary><b>▸ [0x01.C] WEB PLATFORM, GLASSMORPHIC DESKTOP & UI</b></summary>
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00f0ff)
+![JavaScript ES2026](https://img.shields.io/badge/JavaScript_ES2026-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![React 19](https://img.shields.io/badge/React_19-0d1117?style=for-the-badge&logo=react&logoColor=00f0ff)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=9d4dff)
+![Tailwind v4](https://img.shields.io/badge/Tailwind_v4-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00f0ff)
+![Tauri v2](https://img.shields.io/badge/Tauri_v2-0d1117?style=for-the-badge&logo=tauri&logoColor=f7a41d)
+![Electron](https://img.shields.io/badge/Electron-0d1117?style=for-the-badge&logo=electron&logoColor=00f0ff)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ff2a3d)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00f0ff)
+
+</details>
+
+<details open>
+<summary><b>▸ [0x01.D] DATA SCIENCE, TELEMETRY, AI, QUANT & DATABASES</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=f7df1e)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ff2a3d)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=9d4dff)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00f0ff)
+![Scapy](https://img.shields.io/badge/Scapy-0d1117?style=for-the-badge&logo=wireshark&logoColor=00f0ff)
+![Julia](https://img.shields.io/badge/Julia-0d1117?style=for-the-badge&logo=julia&logoColor=9d4dff)
+![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=00f0ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00f0ff)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=00f0ff)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00f0ff)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=ff2a3d)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-0d1117?style=for-the-badge&logo=timescale&logoColor=f7a41d)
+
+</details>
+
+<details open>
+<summary><b>▸ [0x01.E] GAME ENGINES, PLUGINS, DEVOPS & PACKAGING</b></summary>
+<br/>
+
+![Java 25](https://img.shields.io/badge/Java_25-0d1117?style=for-the-badge&logo=openjdk&logoColor=ff2a3d)
+![PaperMC 26.2](https://img.shields.io/badge/PaperMC_26.2-0d1117?style=for-the-badge&logo=minecraft&logoColor=ffffff)
+![NeoForge](https://img.shields.io/badge/NeoForge-0d1117?style=for-the-badge&logo=curseforge&logoColor=f7a41d)
+![JDA](https://img.shields.io/badge/JDA-0d1117?style=for-the-badge&logo=discord&logoColor=9d4dff)
+![Lua](https://img.shields.io/badge/Lua_FiveM_Roblox-0d1117?style=for-the-badge&logo=lua&logoColor=00f0ff)
+![SourceMod](https://img.shields.io/badge/SourceMod_C%2B%2B-0d1117?style=for-the-badge&logo=steam&logoColor=f7a41d)
+![CLEO](https://img.shields.io/badge/CLEO-0d1117?style=for-the-badge&logo=rockstargames&logoColor=39ff14)
+![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=00f0ff)
+![Bash](https://img.shields.io/badge/Bash_Zsh-0d1117?style=for-the-badge&logo=gnubash&logoColor=39ff14)
+![NSIS](https://img.shields.io/badge/NSIS-0d1117?style=for-the-badge&logo=windows&logoColor=ff2a3d)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00f0ff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=ffffff)
+![TOML](https://img.shields.io/badge/TOML_YAML_JSON-0d1117?style=for-the-badge&logo=toml&logoColor=9d4dff)
+
+</details>
 
 ---
 
-### `> 0x02 // MAINFRAME_ARCHITECTURE & POLYGLOT_ENGINE`
+## > 0x02 // MAINFRAME_ARCHITECTURE
 
 ```rust
-// [0xRAGNAROK // MAINFRAME CORE SPECIFICATION v5.0]
-pub mod ragnarok_ecosystem {
+// [0xRAGNAROK // 0xRagnarok-Mainframe SPECIFICATION]
+pub mod ragnarok_mainframe {
     pub struct MainframeConfig {
-        pub central_hub:     &'static str, // "ragnarok-mainframe : Rust (Axum/Tokio) + React 19 + Tailwind v4"
-        pub security_drm:    &'static str, // "rgnk-sentinel-drm  : Ed25519 Licensing, HWID Lock & Signed NSIS"
-        pub desktop_launcher:&'static str, // "rgnk-nexus-client  : Tauri v2 / Electron Glassmorphic App Suite"
-        pub neural_engine:   &'static str, // "rgnk-synapse-ai    : Python FastAPI, PyTorch Models & Agent APIs"
-        pub discord_gateway: &'static str, // "rgnk-phantom-bot   : Automated License Delivery & OAuth2 Sync"
-        pub server_cluster:  &'static str, // "rgnk-hyperion-node : Java 25 & C++ High-Tickrate Server Engine"
+        pub central_hub:      &'static str, // "01-core-mainframe : Rust (Axum) + React 19 + Tailwind v4"
+        pub telemetry_ws:     &'static str, // "02-apis-and-websockets : High-Frequency WSS & Gateways"
+        pub neural_quant:     &'static str, // "03-data-telemetry-and-ai : FastAPI, PyTorch & Quant"
+        pub security_drm:     &'static str, // "04-ring0-systems-and-lowlevel : Ed25519 Vault & Native CLIs"
+        pub automation_bots:  &'static str, // "05-bots-and-automation : Discord Bots & AI Agents"
+        pub server_cluster:   &'static str, // "06-game-engines-and-plugins : Java 25, C++ SourceMod & Lua"
+        pub desktop_saas:     &'static str, // "07-web-and-desktop-apps : Tauri v2, Electron & Kits"
+        pub devops_ops:       &'static str, // "08-scripts-and-devops-tooling : PowerShell, Bash & Polyglot"
+        pub release_forge:    &'static str, // "09-packaging-and-installers : NSIS, Docker & CI/CD"
     }
 
     pub async fn execute_system_override() -> Result<(), &'static str> {
-        sentinel_drm::enforce_zero_trust_ring0(0x7FF6A8B2)?;
-        websocket_bus::bind_encrypted_stream("0.0.0.0:1337").await?;
-        Ok(()) // [STATUS: ALL MODULES DEPLOYED & OPERATIONAL]
+        sentinel_drm::verify_ed25519_vault(0x7FF6A8B2)?;
+        telemetry_bus::stream_wss("0.0.0.0:8080/ws/telemetry").await?;
+        Ok(()) // [STATUS: 9/9 DIVISIONS OPERATIONAL]
     }
 }
 ```
 
-#### `▸ [0x02.B] SYSTEM DATAFLOW & INFRASTRUCTURE TOPOLOGY`
-
-```mermaid
-graph TD
-    subgraph FRONT["0x01 // USER INTERFACES & DISTRIBUTION"]
-        WEB["ragnarok-mainframe (Web)<br/>(React 19 • Vite • Tailwind v4 • Web Shell)"]
-        DESK["rgnk-nexus-client (Desktop)<br/>(Tauri v2 • Electron • NSIS Installer)"]
-        DISC["rgnk-phantom-bot (Discord)<br/>(Slash Commands • OAuth2 • Auto-Delivery)"]
-    end
-
-    subgraph CORE["0x02 // RAGNARÖK CORE & SECURITY LAYER"]
-        API["Rust High-Frequency Gateway<br/>(Axum • Tokio • REST & WebSockets :1337)"]
-        DRM["rgnk-sentinel-drm<br/>(Ed25519 Keys • HWID Lock • Anti-Tamper)"]
-    end
-
-    subgraph ENGINES["0x03 // AI, SERVERS & PERSISTENCE"]
-        AI["rgnk-synapse-ai<br/>(Python • FastAPI • PyTorch Inference)"]
-        NODE["rgnk-hyperion-node<br/>(Java 25 • C++ Native Bridge • Server Clusters)"]
-        DB[("Encrypted Data Cluster<br/>(PostgreSQL • Redis Pub/Sub)")]
-    end
-
-    WEB -->|HTTPS / WSS| API
-    DESK -->|HWID Handshake| DRM
-    DISC -->|Webhook / Sync| API
-    API <-->|Cryptographic Check| DRM
-    API <-->|Streaming Inference| AI
-    API <-->|Live Telemetry| NODE
-    API <-->|SQLx / Async I/O| DB
-```
-
 ---
 
-### `> 0x03 // OPERATIONAL_DOMAINS & PRODUCT_MATRIX`
-
-| ID | Division d'Ingénierie | Technologies Clés | Produits & Solutions Développés | Sécurité |
-| :--- | :--- | :--- | :--- | :--- |
-| **`0x01`** | **Web Platform & SaaS** | `Rust` `React 19` `TS` `Tailwind v4` | Marketplace centrale, dashboards temps réel, terminaux interactifs | `ZERO-TRUST // WSS` |
-| **`0x02`** | **DRM & Native Packaging** | `Rust` `C++` `ASM` `NSIS` | Protection logicielle HWID, clés Ed25519, installateurs `.exe` signés | `RING-0 // ED25519` |
-| **`0x03`** | **AI Models & Automation** | `Python` `PyTorch` `FastAPI` | Modèles d'IA sur mesure, agents autonomes, bots Discord et scrapers | `ENCRYPTED // API` |
-| **`0x04`** | **Desktop & Server Cores** | `Tauri` `Electron` `Java 25` | Launchers desktop glassmorphic, serveurs distribués et plugins | `HWID // SANDBOXED` |
-
----
-
-### `> 0x04 // NEXT-GEN_ECOSYSTEM & FLAGSHIP_REPOSITORIES`
-
-| Nouveau Dépôt | Module | Stack Technique | Rôle dans l'Infrastructure `0xRagnarok` | Statut |
-| :--- | :--- | :--- | :--- | :--- |
-| **`ragnarok-mainframe`** | `0x01 // CORE` | `Rust` `Axum` `React 19` `Tailwind` | Infrastructure mère, store digital, API WebSockets et terminal web | `🟢 [ONLINE]` |
-| **`rgnk-sentinel-drm`** | `0x02 // DRM` | `Rust` `C++` `Ed25519` `NSIS` | Gestionnaire de licences cryptographiques, HWID lock et compilateur NSIS | `🔴 [RING-0]` |
-| **`rgnk-nexus-client`** | `0x03 // NEXUS` | `Tauri v2` `Electron` `TS` `React` | Application desktop dark-glass pour gérer, lancer et mettre à jour les outils | `🟢 [ONLINE]` |
-| **`rgnk-synapse-ai`** | `0x04 // SYNAPSE` | `Python` `PyTorch` `FastAPI` | Serveur d'inférence IA haute vitesse, modèles custom et agents autonomes | `🟣 [NEURAL]` |
-| **`rgnk-phantom-bot`** | `0x05 // PHANTOM` | `Python` `TS` `Discord API` | Bot et application Discord commerciale : livraison de clés et synchronisation | `🟢 [ONLINE]` |
-| **`rgnk-hyperion-node`** | `0x06 // HYPERION` | `Java 25` `Rust` `C++` `Gradle` | Moteur de serveurs haute performance, plugins modulaires et télémétrie | `🟣 [ACTIVE]` |
-
----
-
-### `> 0x05 // TELEMETRY_METRICS & SYSTEM_DIAGNOSTICS`
+## > 0x03 // FLAGSHIP_MAINFRAME_DIVISIONS
 
 <div align="center">
 
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=0xRagnarok&show_icons=true&bg_color=0d1117&title_color=00ff66&icon_color=a855f7&text_color=c9d1d9&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true" alt="0xRagnarok GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRagnarok&layout=compact&langs_count=8&bg_color=0d1117&title_color=00ff66&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="0xRagnarok Top Languages" />
-
-  <br />
-
-  <img src="https://streak-stats.demolab.com?user=0xRagnarok&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=00FF66&fire=FF003C&currStreakNum=00F0FF&sideNums=00FF66&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E" alt="0xRagnarok Streak Stats" />
+[![0xRagnarok-Mainframe](https://github-readme-stats.vercel.app/api/pin/?username=0xRagnarok&repo=0xRagnarok-Mainframe&theme=radical&bg_color=0d1117&border_color=00f0ff&title_color=ff2a3d&icon_color=00f0ff&text_color=e6e8ef)](https://github.com/0xRagnarok/0xRagnarok-Mainframe)
 
 </div>
 
----
-
-### `> 0x06 // CLASSIFIED_MODULES (EXPANDABLE_SPECS)`
-
-<details>
-<summary><b><code>[+] 0x06.A // DEVELOPMENT ENVIRONMENT (IntelliJ IDEA + Google Antigravity)</code></b></summary>
-<br />
-
-```ini
-[WORKSPACE_ENVIRONMENT // 0xRAGNAROK]
-Primary_IDE    = "IntelliJ IDEA Ultimate (Polyglot Monorepo Architecture)"
-AI_Engine      = "Google Antigravity + Gemini 4 Hydrogen (xhigh Reasoning)"
-Toolchains     = "Cargo (Rust), pnpm/Vite (TS/React), uv/Poetry (Python), Gradle (Java 25)"
-Design_System  = "Dark Mode (#0D0B14), Glassmorphism, Neon Terminal Accents (#00FF66 / #FF2A4B)"
-```
-</details>
-
-<details>
-<summary><b><code>[+] 0x06.B // AUTOMATED BUILD PIPELINE & NSIS INSTALLER COMPILATION</code></b></summary>
-<br />
-
-```bash
-# Pipeline de production automatisé du Monorepo 0xRagnarok
-$ cargo build --release --workspace                       # Build ragnarok-mainframe & rgnk-sentinel-drm
-$ pnpm --filter @rgnk/web-marketplace build               # Bundle React 19 + Vite + Tailwind CSS v4
-$ pnpm --filter @rgnk/nexus-client tauri build            # Build du client desktop natif
-$ ./gradlew :rgnk-hyperion-node:build                     # Compilation des modules serveurs Java 25
-$ makensis /V4 ./installers/rgnk_setup.nsi                # Packaging de l'installateur Windows NSIS
-```
-</details>
-
-<details>
-<summary><b><code>[+] 0x06.C // ZERO-TRUST LICENSING & AUTOMATED DELIVERY PROTOCOL</code></b></summary>
-<br />
-
-* **Achat & Provisioning Instantané :** Lorsqu'un utilisateur acquiert une application, un script, un bot ou un accès API sur le site, `ragnarok-mainframe` génère une clé cryptographique `Ed25519` unique et synchronise automatiquement ses rôles Discord via `rgnk-phantom-bot`.
-* **Vérification Matérielle (HWID Lock) :** Au lancement de l'installateur `NSIS` ou de l'application via `rgnk-nexus-client`, `rgnk-sentinel-drm` valide l'empreinte matérielle en quelques millisecondes via un tunnel WebSocket chiffré.
-</details>
+| Code | Division | Stack & Role |
+|---|---|---|
+| `0x01` | [**Core Mainframe**](https://github.com/0xRagnarok/0xRagnarok-Mainframe/tree/main/01-core-mainframe) | React 19 + Tailwind v4 · Rust Axum Kernel · FastAPI Nexus · Tauri v2 |
+| `0x02` | [**APIs & WebSockets**](https://github.com/0xRagnarok/0xRagnarok-Mainframe/tree/main/02-apis-and-websockets) | High-frequency WebSockets · REST / GraphQL / gRPC · Webhook relays |
+| `0x03` | [**Data, Telemetry & AI**](https://github.com/0xRagnarok/0xRagnarok-Mainframe/tree/main/03-data-telemetry-and-ai) | PyTorch · Quant research · Network telemetry · Live metrics collectors |
+| `0x04` | [**Ring-0 & Low-Level**](https://github.com/0xRagnarok/0xRagnarok-Mainframe/tree/main/04-ring0-systems-and-lowlevel) | Rust · C++23 · Zig · ASM · Ed25519 DRM Vault & native tools |
+| `0x05` | [**Bots & Automation**](https://github.com/0xRagnarok/0xRagnarok-Mainframe/tree/main/05-bots-and-automation) | Discord bots · Autonomous AI agents · Scheduled daemons |
+| `0x06` | [**Game Engines & Plugins**](https://github.com/0xRagnarok/0xRagnarok-Mainframe/tree/main/06-game-engines-and-plugins) | Java 25 (PaperMC 26.2 / NeoForge / JDA) · C++ SourceMod · CLEO / Lua |
+| `0x07` | [**Web & Desktop Apps**](https://github.com/0xRagnarok/0xRagnarok-Mainframe/tree/main/07-web-and-desktop-apps) | Tauri / Electron studios · Glassmorphic templates · Micro-SaaS kits |
+| `0x08` | [**Scripts & DevOps**](https://github.com/0xRagnarok/0xRagnarok-Mainframe/tree/main/08-scripts-and-devops-tooling) | PowerShell Windows Ops · Bash Linux hardening · Polyglot utility scripts |
+| `0x09` | [**Packaging & Installers**](https://github.com/0xRagnarok/0xRagnarok-Mainframe/tree/main/09-packaging-and-installers) | Signed NSIS `.exe` installers · Docker Compose stacks · CI pipelines |
 
 ---
 
-### `> 0x07 // ACTIVE_TRANSMISSIONS & ENCRYPTED_COMMS`
+## > 0x04 // LIVE_TELEMETRY
 
 <div align="center">
 
-  <a href="https://sys.override.net">
-    <img src="https://img.shields.io/badge/MAINFRAME_HUB-sys.override.net-00FF66?style=for-the-badge&logo=googlechrome&logoColor=00FF66&labelColor=0D1117" alt="Website" />
-  </a>
-  <a href="https://github.com/0xRagnarok">
-    <img src="https://img.shields.io/badge/GITHUB-0xRagnarok-8A2BE2?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/DISCORD-ms.ragnarok%20%2F%2F%20root%40ragnarok%3A~%23-00F0FF?style=for-the-badge&logo=discord&logoColor=00F0FF&labelColor=0D1117" alt="Discord" />
-  <img src="https://img.shields.io/badge/PORT_1337-WSS__ACTIVE_%2F%2F_LISTENING-FF003C?style=for-the-badge&logo=wireshark&logoColor=FF003C&labelColor=0D1117" alt="Port 1337" />
+![Profile Views](https://komarev.com/ghpvc/?username=0xRagnarok&style=for-the-badge&color=9d4dff&label=UPLINKS)
 
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=0xRagnarok&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff2a3d&icon_color=00f0ff&text_color=e6e8ef)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xRagnarok&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff2a3d&text_color=e6e8ef&langs_count=10)
 
-<br />
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=0xRagnarok&bg_color=0d1117&color=00f0ff&line=ff2a3d&point=9d4dff&area=true&hide_border=true)
 
 ```text
-╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║  root@ragnarok:~# echo "If it has memory, it can be rewritten."                          ║
-║  [EOF // 0xRAGNAROK] — Next-Gen Software Ecosystem • Connection Encrypted (TLS 1.3) █    ║
-╚══════════════════════════════════════════════════════════════════════════════════════════╝
+root@ragnarok:~# exit
+[ SESSION TERMINATED // RING-0 // ENCRYPTED ]
 ```
+
+</div>
